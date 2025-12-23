@@ -27,4 +27,4 @@ The model identified the following as top predictors for depression:
 2. **Academic Pressure**
 3. **Financial Stress**
 ## 📧 Contact
-**Coralia SHAN** - [LinkedIn]([URL_DE_TON_LINKEDIN](https://www.linkedin.com/in/coralia-shan-medtech)
+**Coralia SHAN** - [LinkedIn](https://www.linkedin.com/in/coralia-shan-medtech)
