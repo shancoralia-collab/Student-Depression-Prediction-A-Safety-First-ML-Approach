@@ -1,0 +1,13 @@
+{
+  "model_type": "RandomForestClassifier",
+  "optimal_threshold": 0.47,
+  "recall": 0.9017747858017136,
+  "precision": 0.8348441926345609,
+  "f1_score": 0.8670197116799059,
+  "roc_auc": 0.9166115659401575,
+  "additional_students_detected": 54,
+  "false_negatives": 321,
+  "false_positives": 583,
+  "detection_rate": 0.9017747858017136,
+  "total_depressed_students": 3268
+}
